@@ -12,3 +12,5 @@ else:
 
 is_member = True
 is_weekend = False
+
+discount = 0
