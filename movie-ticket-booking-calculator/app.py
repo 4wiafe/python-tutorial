@@ -32,3 +32,8 @@ else:
     print('No extra charges will be applied')
 
 print('Extra charges:', extra_charges)
+
+if age >= 21:
+    print('Ticket booking condition satisfied')
+else:
+    print('Ticket booking failed due to restrictions')
